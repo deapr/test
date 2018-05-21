@@ -1,2 +1,2 @@
-remote_theme: hmfaysal-omega-theme  
+remote_theme: jekyll-theme-minimal
 permalink: /blog/:year/:month/:day/:title
