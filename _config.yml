@@ -1,1 +1,2 @@
 remote_theme: hmfaysal-omega-theme  
+permalink: /blog/:year/:month/:day/:title
