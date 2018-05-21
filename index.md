@@ -1,8 +1,5 @@
----
-layout: post
-mathjax: true
-title: Testing 1
----
+
+
 
 
 ## Welcome to GitHub Pages
