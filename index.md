@@ -1,3 +1,10 @@
+---
+layout: post
+mathjax: true
+title: Testing 1
+---
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/deapr/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
