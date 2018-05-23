@@ -1,9 +1,4 @@
 
----
-layout: post
-mathjax: true
----
-
 
 ## Welcome to GitHub Pages
 
